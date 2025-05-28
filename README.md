@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # -Sistema-de-Matr-cula-e-Agendamento-de-Aulas
 📝 Diário de Projeto — Dia 1
 📆 Data: 27/05/2025
